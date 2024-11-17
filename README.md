@@ -5,3 +5,4 @@ Nesse desafio pude desenvolver habilidades do HTML, CSS e JavaScript. Nesse desa
 Separação de variaveis de acordo ao que cada variavel faz, se é algo interno ou visual. Fazer sempre funções bem definidas. Trabalhar com eventos e áudios.
 
 Este foi o resultado final.
+![image](https://github.com/user-attachments/assets/006d7d5b-c43d-470c-ae6d-928288f536ce)
