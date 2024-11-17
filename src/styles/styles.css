@@ -49,5 +49,15 @@ main{
 .enemy{
     background-image: url(../img/ralph-2.png);
     background-size: cover;
+    
+}
 
+/* Footer */
+.footer-name{
+    font-size: 15px;
+    color: #ffffff;
+    margin: 25px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
